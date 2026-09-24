@@ -1,3 +1,3 @@
-# LJS ELEC
+# LJS Élec
 
-Application LJS ELEC, reliée au Supabase central LJS avec ses propres tables.
+Application LJS Élec synchronisée sur les fonctionnalités de LJS Feuilles d'heures.
